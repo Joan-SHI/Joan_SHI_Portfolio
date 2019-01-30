@@ -1,6 +1,8 @@
 ## Joan Shi Portfolio
 
-**Notes for Set-up:** 1. Make my donation to https://creativecommons.org/licenses/by/3.0/.
+**Notes for Set-up:** 
+
+1. Make my donation to https://creativecommons.org/licenses/by/3.0/.
 
 2. Git clone https://github.com/xriley/Developer-Theme.git to my local workspace in COMMAND LINE.
 
