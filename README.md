@@ -1,3 +1,25 @@
+## Joan Shi Portfolio
+
+**Notes for Set-up:** 1. Make my donation to https://creativecommons.org/licenses/by/3.0/.
+
+2. Git clone https://github.com/xriley/Developer-Theme.git to my local workspace in COMMAND LINE.
+
+3. Create a new repo in my GitHub https://github.com/Joan-SHI?tab=repositories (remember not to create a README.md there).
+
+4. Run git remote set-url origin https://github.com/Joan-SHI/Joan_Shi_Portfolio.git in COMMAND LINE.
+
+5. Run git push -u origin master in COMMAND LINE.
+
+**Ta-Da!**
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------
 <a href="https://themes.3rdwavemedia.com/bootstrap-templates/resume/free-bootstrap-theme-for-web-developers/" target="_blank"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2018/07/free-bootstrap-portfolio-theme-for-web-developers.jpg" alt="Developer Theme" width="750" /></a>
 
 ## Theme Details & Demo
