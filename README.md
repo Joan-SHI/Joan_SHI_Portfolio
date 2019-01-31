@@ -21,12 +21,12 @@
 
 **Demo:** https://market-rent.herokuapp.com/
 
-## Features
+## Features of this Portfolio
 
 -  Fully Responsive
 -  HTML5 + CSS3
 -  Built on Bootstrap 4
--  **SCSS** source files included
+-  Scss
 -  1000+ FontAwesome 5 icons
 
 ## Credits
