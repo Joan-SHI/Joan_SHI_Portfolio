@@ -22,11 +22,11 @@
 
 
 -------------------------------------------------------------------------------------------------------------
-<a href="https://themes.3rdwavemedia.com/bootstrap-templates/resume/free-bootstrap-theme-for-web-developers/" target="_blank"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2018/07/free-bootstrap-portfolio-theme-for-web-developers.jpg" alt="Developer Theme" width="750" /></a>
+<a href="https://market-rent.herokuapp.com/" target="_blank"><img src="assets/images/projects/Joan's_Market_App1.png" alt="Developer Theme" width="750" /></a>
 
-## Theme Details & Demo
+## Project Details & Demo
 
-**Demo:** https://themes.3rdwavemedia.com/bootstrap-templates/resume/free-bootstrap-theme-for-web-developers/
+**Demo:** https://market-rent.herokuapp.com/
 
 Developer is a free Bootstrap 4 theme designed to **help developers promote their work**. 
 It can be used as a **professional portal** to your other online portfolios or websites (eg. Linkedin, CoderWall, Blog, GitHub etc) **in a modular fashion**. 
