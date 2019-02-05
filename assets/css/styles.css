@@ -1,15 +1,7 @@
-/*!   
- * Template Name: Developer - Responsive Website Template for Developers
- * Version: 2.0
- * Author: Xiaoying Riley
- * Twitter: @3rdwave_themes
- * License: Creative Commons Attribution 3.0 License
- * Website: https://themes.3rdwavemedia.com/
-*/
 body {
   font-family: 'Lato', arial, sans-serif;
   color: #434343;
-  background: #DAE3E7;
+  background: rgb(27, 83, 112);
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -22,7 +14,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-  color: #3AAA64;
+  color: #FFCE00;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -32,7 +24,7 @@ a {
 a:hover {
   text-decoration: underline;
   color: #5f6b77;
-  color: #2d844e;
+  color: #FFCE00;
 }
 
 a:focus {
@@ -60,16 +52,16 @@ a:focus {
 }
 
 a.btn-cta-primary, .btn-cta-primary {
-  background: #54ba4e;
-  border: 1px solid #54ba4e;
+  background: #FFCE00;
+  border: 1px solid #FFCE00;
   color: #fff;
   font-weight: 600;
   text-transform: uppercase;
 }
 
 a.btn-cta-primary:hover, .btn-cta-primary:hover {
-  background: #49ac43;
-  border: 1px solid #49ac43;
+  background: #FFCE00;
+  border: 1px solid #FFCE00;
   color: #fff;
 }
 
@@ -92,7 +84,7 @@ a.btn-cta-secondary:hover, .btn-cta-secondary:hover {
 }
 
 .badge-theme {
-  background: #3AAA64;
+  background: #FFCE00;
   font-size: 12px;
   color: #fff;
   -webkit-border-radius: 2px;
@@ -118,7 +110,7 @@ a.dotted-link:hover {
 /* ======= Header ======= */
 .header {
   padding: 30px 0;
-  background: #f5f5f5;
+  background: rgb(166, 190, 202);
   border-top: 10px solid #778492;
 }
 
@@ -129,6 +121,7 @@ a.dotted-link:hover {
 
 .header .profile-image {
   margin-right: 30px;
+  border-radius: 50%;
 }
 
 .header .profile-content .name {
@@ -148,7 +141,7 @@ a.dotted-link:hover {
 }
 
 .header .profile-content .social a {
-  background: #b0b7bf;
+  background: #FFCE00;
   width: 36px;
   height: 36px;
   display: inline-block;
@@ -265,7 +258,7 @@ a.dotted-link:hover {
 }
 
 .latest .has-ribbon .text {
-  background: #3AAA64;
+  background: #FFCE00;
   color: #fff;
 }
 
@@ -445,7 +438,7 @@ a.dotted-link:hover {
 
 .skills .skillset .level-bar-inner {
   height: 15px;
-  background: #66cb8c;
+  background: #FFCE00;
 }
 
 .skills .svg-inline--fa {
@@ -476,7 +469,7 @@ a.dotted-link:hover {
 }
 
 .testimonials .item .quote .svg-inline--fa {
-  color: #79d19a;
+  color: #FFCE00;
   margin-right: 15px;
 }
 
@@ -540,7 +533,7 @@ a.dotted-link:hover {
 }
 
 .languages .item .svg-inline--fa {
-  color: #79d19a;
+  color: #FFCE00;
 }
 
 /* Blog Section */
@@ -636,7 +629,7 @@ a.dotted-link:hover {
 }
 
 .footer .fa-heart {
-  color: #fb866a;
+  color: #FFCE00;
 }
 
 @media (max-width: 767.98px) {
